@@ -15,9 +15,12 @@
   Performed Exploratory Data Analysis (EDA) on MODIS dataset.<br>
   Visualized trends using Pandas, Matplotlib, and Seaborn.<br>
   Built predictive model for fire classification.<br>
+  <br>
 - Cuisine Catalyst- recipe generator<br>
   Designed and developed RESTful APIs using Node.js and Express.js<br>
   Implemented JWT-based authentication for secure user access.<br>
   Built dynamic UI with React.js and Tailwind CSS.<br>
   Integrated MongoDB for scalable data storage.<br>
-  Developed features for saving favorites, feedback collection, and email notifications.
+  <br>
+- LangGraph based Multi-Utility Agent<br>
+  Currently working on learning LangGraph and implementing it.
